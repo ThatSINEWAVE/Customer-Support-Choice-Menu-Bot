@@ -24,6 +24,8 @@ The application is structured into multiple Python modules, each serving a speci
 - **Data Handling**: User inputs and system-generated data are organized and stored efficiently, allowing for easy access and management.
 - **Modular Design**: Each component of the application is contained within its own module, promoting modularity and ease of maintenance.
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Getting Started
 1. Clone the repository to your local machine.
 2. Ensure Python 3.x is installed.
